@@ -16,3 +16,9 @@ The **chemical oxygen demand (COD)** is predominantly composed of humic and fulv
 2. **Rainfall Trends Study**: Investigated precipitation patterns to understand their impact on leachate generation.
 3. **Moving Averages Calculation**: Implemented moving averages to estimate the growth and scalability of the treatment system.
 4. **Flow Rate Prediction**: Developed a simple neural network model to predict daily leachate flow rates.
+
+## Bibliography
+
+1. Kjeldsen, P., Barlaz, M. A., Rooker, A. P., Baun, A., Ledin, A., & Christensen, T. H. (2002). Present and long-term composition of MSW landfill leachate: a review. Critical reviews in environmental science and technology, 32(4), 297-336.
+2. Ishii, K., Sato, M., & Ochiai, S. (2022). Prediction of leachate quantity and quality from a landfill site by the long short-term memory model. Journal of Environmental Management, 310, 114733.
+3. Karaca, F., & Özkaya, B. (2006). NN-LEAP: A neural network-based model for controlling leachate flow-rate in a municipal solid waste landfill site. Environmental Modelling & Software, 21(8), 1190-1197.
